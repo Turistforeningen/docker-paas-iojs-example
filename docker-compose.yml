@@ -1,4 +1,5 @@
 www:
+  restart: always
   build: .
   ports:
     - "8080"
