@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-express-example-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.10.2",
+    "ejs": "1.0.0"
+  },
+  "scripts": {
+    "start": "node web.js"
+  }
+}
